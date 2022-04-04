@@ -1,7 +1,7 @@
 ## Seja Bem vindo!
-Eu sou a Quézia Emanuelle, mas pode me chamar de Quézia ou Manu, vc decide 😁!
+Eu sou a Quézia Emanuelle, mas pode me chamar de Quézia ou Manu😁!
 Vou contar um pouquinho sobre mim...
-Sou formada em Ciências Biológicas pela UNOPAR, Possuo 3 pós Graduações (Análises Clínicas e Biotecnologia, Ensino em Biologia e Ciências, MBA em Executivo em Saúde) pela Educaminas, além de ser Técnica de Patologia Clínica formada pela FAETEC com mais de 10 cursos complementares acima de 160 horas na área Laboratorial. Atualmente sou estudante Tecnóloga de Analise e Desenvolvimento de Sistemas na Estácio.
+Sou formada em Ciências Biológicas, Possuo 3 pós Graduações (Análises Clínicas e Biotecnologia, Ensino em Biologia e Ciências, MBA em Executivo em Saúde), além de ser Técnica de Patologia Clínica com mais de 10 cursos complementares acima de 160 horas na área Laboratorial. Atualmente sou estudante Tecnóloga de Analise e Desenvolvimento de Sistemas na Estácio.
 
 Viu? estou começando agora nessa área de tecnologia, aqui colocarei meus projetos no decorrer da minha graduação.
 
