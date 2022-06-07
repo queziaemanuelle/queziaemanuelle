@@ -3,7 +3,8 @@ Eu sou a Quézia Emanuelle, mas pode me chamar de Quézia ou Manu😁!
 Vou contar um pouquinho sobre mim...
 Sou formada em Ciências Biológicas, Possuo 3 pós Graduações (Análises Clínicas e Biotecnologia, Ensino em Biologia e Ciências, MBA em Executivo em Saúde), além de ser Técnica de Patologia Clínica com mais de 10 cursos complementares acima de 160 horas na área Laboratorial. Atualmente sou estudante Tecnóloga de Analise e Desenvolvimento de Sistemas na Estácio.
 
-Viu? estou começando agora nessa área de tecnologia, aqui colocarei meus projetos no decorrer da minha graduação.
+Viu? Só estou começando agora nessa área de tecnologia, aqui colocarei meus projetos no decorrer da minha graduação e da vida.
+Fique a vontade para me escrever e ascrescentar nos projetos 
 
 <div> 
  <a href="https://www.instagram.com/queziaemanuelle/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
